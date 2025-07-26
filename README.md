@@ -1,1 +1,1 @@
-# QuantumChat
+# Quantum Nexus
